@@ -1,0 +1,1 @@
+Brightness:.Contrast:.Shutter:.Thresh1:.Thresh2:.Gaussian:.Median:.Height:.HUE_MIN:.SAT_MIN:.VAL_MIN:.HUE_MAX:.SAT_MAX:.VAL_MAX:
